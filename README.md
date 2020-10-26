@@ -5,10 +5,12 @@ A LITTLE PIECE OF HEAVEN (A7X)
 
 modul:
 
+pkg install python3
+
 pip install requests
 
 pip install tqdm
 
-pake python 3.6 keatas:
+cd COSMOHACK
 
-python3 COSMOHACK.py
+Python3 COSMOHACK.py
